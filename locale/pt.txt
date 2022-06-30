@@ -1,0 +1,27 @@
+#: locale=pt
+
+## Tour
+
+### Description
+tour.description = Material tático
+
+### Title
+tour.name = WF Emporio Caça e Pesca
+
+## Media
+
+### Title
+panorama_A0811EB6_B2F1_306D_41CF_A1F76DCD30BC.label = FOTO_2614
+panorama_A08149EF_B2F1_F3FC_41B3_9B7BA80FED4B.label = FOTO_2612
+panorama_A0833993_B2F1_302B_41BA_1491AE70D46F.label = FOTO_2610
+panorama_A12CD256_B2F1_702C_41C3_2D2E293DCA05.label = FOTO_2609
+
+## Action
+
+### URL
+LinkBehaviour_812BC2BF_986C_B4CF_41CB_21F132D01308.source = https://www.instagram.com/p/COJdiTZHZGu/
+LinkBehaviour_81A9D71D_986C_FDD1_41DF_9BC73738CD32.source = https://api.whatsapp.com/send?phone=5592995005115&text=Ol%C3%A1%20vim%20pelo%20Google%2C%20gostaria%20de%20uma%20informa%C3%A7%C3%A3o%2C%20pode%20ajudar%3F
+LinkBehaviour_81FD913A_986D_95D3_41D7_B538D3D0DF8E.source = https://goo.gl/maps/e64i9xUe6NSHPGec6
+LinkBehaviour_A4041739_B253_3064_41CC_435E82C9E860.source = https://www.instagram.com/p/COJdiTZHZGu/
+LinkBehaviour_A4042739_B253_3064_41DD_BBEDF83EE6E0.source = https://api.whatsapp.com/send?phone=5592995005115&text=Ol%C3%A1%20vim%20pelo%20Google%2C%20gostaria%20de%20uma%20informa%C3%A7%C3%A3o%2C%20pode%20ajudar%3F
+LinkBehaviour_A404F73A_B253_3064_41D2_22BBF85FD9AA.source = https://goo.gl/maps/e64i9xUe6NSHPGec6
