@@ -3,10 +3,10 @@
 ## Tour
 
 ### Description
-tour.description = Material tático
+tour.description = Força e Honra!
 
 ### Title
-tour.name = WF Emporio Caça e Pesca
+tour.name = WF Empório Caça e Pesca
 
 ## Skin
 
@@ -16,12 +16,15 @@ Button_D842EA29_C999_13ED_41DE_AE785FEB21FA.label = ENTRE EM CONTATO
 ## Media
 
 ### Title
-panorama_C24FD63F_C9A9_73E6_41E0_6CCACBBF8244.label = 1 - Entrada
-panorama_C32A16CB_C9AB_30AE_41C9_5FF564C5F766.label = 4
-panorama_C32A320A_C9AB_33AE_41E0_E6383C762502.label = 6 - Pesca
-panorama_C32A4944_C9AB_319A_41E4_F31DFDA92A6A.label = 3 - Recepção 2
-panorama_C32AA128_C9AB_71EB_41D6_4C7521B88DE8.label = 7 - Balção
-panorama_C32AE4AD_C9AB_F0E5_41E3_BCEC39729AC3.label = 5 - Óculos
+panorama_1A7C5024_0B5E_A877_4183_292DDCE86A3C.label = IMG_20230128_141058_00_merged
+panorama_1A7D068E_0B5E_A833_4160_8A430F06350A.label = IMG_20230128_141529_00_merged
+panorama_1A7E7C66_0B5F_98F3_419A_D25635CD79B3.label = IMG_20230128_141243_00_merged
+panorama_1A7E8354_0B5F_68D7_418B_8ABD537085D6.label = IMG_20230128_141432_00_merged
+panorama_1A7EBFC0_0B5F_9830_4172_F44D6D9AFDF0.label = IMG_20230128_141324_00_merged
+panorama_1A7EE159_0B5F_A8D1_4184_DAB6DA0B590A.label = IMG_20230128_141359_00_merged
+panorama_1A7F7980_0B5E_982F_4162_1D398F2E4EC0.label = IMG_20230128_141220_00_merged
+panorama_1A7F867D_0B5E_E8D1_419F_7615B98B51D8.label = IMG_20230128_141141_00_merged
+panorama_1ACF5E09_0B41_9831_4189_E647D010CFBA.label = IMG_20230128_140938_00_merged
 panorama_C32C0B6C_C9A9_306A_41CD_26528D1538E8.label = 2 - Lateral
 
 ## Action

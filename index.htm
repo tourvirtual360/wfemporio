@@ -1,26 +1,35 @@
 <!DOCTYPE html>
 <html lang="pt">
 <head>
-    <title>WF Emporio Caça e Pesca</title>
+    <title>WF Empório Caça e Pesca</title>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <meta name="viewport" id="metaViewport" content="user-scalable=no, initial-scale=1, width=device-width, viewport-fit=cover" data-tdv-general-scale="0.5"/>
     <meta name="apple-mobile-web-app-capable" content="yes"/>
     <meta name="apple-mobile-web-app-status-bar-style" content="default">
-    <link rel="preload" href="locale/pt.txt?v=1656953146730" as="fetch" crossorigin="anonymous"/>
-	<link rel="preload" href="script.js?v=1656953146730" as="script"/>
-	<link rel="preload" href="media/panorama_C24FD63F_C9A9_73E6_41E0_6CCACBBF8244_0/r/2/0_0.jpg?v=1656953146730" as="image"/>
-	<link rel="preload" href="media/panorama_C24FD63F_C9A9_73E6_41E0_6CCACBBF8244_0/l/2/0_0.jpg?v=1656953146730" as="image"/>
-	<link rel="preload" href="media/panorama_C24FD63F_C9A9_73E6_41E0_6CCACBBF8244_0/u/2/0_0.jpg?v=1656953146730" as="image"/>
-	<link rel="preload" href="media/panorama_C24FD63F_C9A9_73E6_41E0_6CCACBBF8244_0/d/2/0_0.jpg?v=1656953146730" as="image"/>
-	<link rel="preload" href="media/panorama_C24FD63F_C9A9_73E6_41E0_6CCACBBF8244_0/f/2/0_0.jpg?v=1656953146730" as="image"/>
-	<link rel="preload" href="media/panorama_C24FD63F_C9A9_73E6_41E0_6CCACBBF8244_0/b/2/0_0.jpg?v=1656953146730" as="image"/>
-	<meta name="description" content="Material tático"/>
+    <link rel="shortcut icon" href="favicon.ico?v=1675230961163">
+	<link rel="icon" sizes="48x48 32x32 16x16" href="favicon.ico?v=1675230961163">
+	<link rel="apple-touch-icon" type="image/png" sizes="180x180" href="misc/icon180.png?v=1675230961163">
+	<link rel="icon" type="image/png" sizes="16x16" href="misc/icon16.png?v=1675230961163">
+	<link rel="icon" type="image/png" sizes="32x32" href="misc/icon32.png?v=1675230961163">
+	<link rel="icon" type="image/png" sizes="192x192" href="misc/icon192.png?v=1675230961163">
+	<link rel="manifest" href="manifest.json?v=1675230961163">
+	<meta name="msapplication-TileColor" content="#FFFFFF">
+	<meta name="msapplication-config" content="browserconfig.xml">
+	<link rel="preload" href="locale/pt.txt?v=1675230961163" as="fetch" crossorigin="anonymous"/>
+	<link rel="preload" href="script.js?v=1675230961163" as="script"/>
+	<link rel="preload" href="media/panorama_1ACF5E09_0B41_9831_4189_E647D010CFBA_0/r/2/0_0.jpg?v=1675230961163" as="image"/>
+	<link rel="preload" href="media/panorama_1ACF5E09_0B41_9831_4189_E647D010CFBA_0/l/2/0_0.jpg?v=1675230961163" as="image"/>
+	<link rel="preload" href="media/panorama_1ACF5E09_0B41_9831_4189_E647D010CFBA_0/u/2/0_0.jpg?v=1675230961163" as="image"/>
+	<link rel="preload" href="media/panorama_1ACF5E09_0B41_9831_4189_E647D010CFBA_0/d/2/0_0.jpg?v=1675230961163" as="image"/>
+	<link rel="preload" href="media/panorama_1ACF5E09_0B41_9831_4189_E647D010CFBA_0/f/2/0_0.jpg?v=1675230961163" as="image"/>
+	<link rel="preload" href="media/panorama_1ACF5E09_0B41_9831_4189_E647D010CFBA_0/b/2/0_0.jpg?v=1675230961163" as="image"/>
+	<meta name="description" content="Força e Honra!"/>
 	<meta name="theme-color" content="#FFFFFF"/>
-    <script src="lib/tdvplayer.js?v=1656953146730"></script>
-    <script src="script.js?v=1656953146730"></script>
+    <script src="lib/tdvplayer.js?v=1675230961163"></script>
+    <script src="script.js?v=1675230961163"></script>
     <script type="text/javascript">
         var tour;
-        var devicesUrl = {"general":"script_general.js?v=1656953146730","mobile":"script_mobile.js?v=1656953146730"};
+        var devicesUrl = {"general":"script_general.js?v=1675230961163","mobile":"script_mobile.js?v=1675230961163"};
 
         (function()
         {
@@ -63,9 +72,9 @@
 
             var settings = new TDV.PlayerSettings();
             settings.set(TDV.PlayerSettings.CONTAINER, document.getElementById('viewer'));
-            settings.set(TDV.PlayerSettings.WEBVR_POLYFILL_URL, 'lib/WebVRPolyfill.js?v=1656953146730');
-            settings.set(TDV.PlayerSettings.HLS_URL, 'lib/Hls.js?v=1656953146730');
-            settings.set(TDV.PlayerSettings.QUERY_STRING_PARAMETERS, 'v=1656953146730');
+            settings.set(TDV.PlayerSettings.WEBVR_POLYFILL_URL, 'lib/WebVRPolyfill.js?v=1675230961163');
+            settings.set(TDV.PlayerSettings.HLS_URL, 'lib/Hls.js?v=1675230961163');
+            settings.set(TDV.PlayerSettings.QUERY_STRING_PARAMETERS, 'v=1675230961163');
 
             tour = new TDV.Tour(settings, devicesUrl);
             tour.bind(TDV.Tour.EVENT_TOUR_INITIALIZED, onVirtualTourInit);
@@ -311,7 +320,7 @@
         #viewer { z-index:1; }
         
     </style>
-    <link rel="stylesheet" href="fonts.css?v=1656953146730">
+    <link rel="stylesheet" href="fonts.css?v=1675230961163">
 </head>
 <body>
     
