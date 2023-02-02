@@ -8,11 +8,6 @@ tour.description = Força e Honra!
 ### Title
 tour.name = WF Empório Caça e Pesca
 
-## Skin
-
-### Button
-Button_D842EA29_C999_13ED_41DE_AE785FEB21FA.label = ENTRE EM CONTATO
-
 ## Media
 
 ### Title
@@ -21,7 +16,6 @@ panorama_1A7D068E_0B5E_A833_4160_8A430F06350A.label = IMG_20230128_141529_00_mer
 panorama_1A7E7C66_0B5F_98F3_419A_D25635CD79B3.label = IMG_20230128_141243_00_merged
 panorama_1A7E8354_0B5F_68D7_418B_8ABD537085D6.label = IMG_20230128_141432_00_merged
 panorama_1A7EBFC0_0B5F_9830_4172_F44D6D9AFDF0.label = IMG_20230128_141324_00_merged
-panorama_1A7EE159_0B5F_A8D1_4184_DAB6DA0B590A.label = IMG_20230128_141359_00_merged
 panorama_1A7F7980_0B5E_982F_4162_1D398F2E4EC0.label = IMG_20230128_141220_00_merged
 panorama_1A7F867D_0B5E_E8D1_419F_7615B98B51D8.label = IMG_20230128_141141_00_merged
 panorama_1ACF5E09_0B41_9831_4189_E647D010CFBA.label = IMG_20230128_140938_00_merged
@@ -36,4 +30,3 @@ LinkBehaviour_81FD913A_986D_95D3_41D7_B538D3D0DF8E.source = https://goo.gl/maps/
 LinkBehaviour_A4041739_B253_3064_41CC_435E82C9E860.source = https://www.instagram.com/p/COJdiTZHZGu/
 LinkBehaviour_A4042739_B253_3064_41DD_BBEDF83EE6E0.source = https://api.whatsapp.com/send?phone=5592995005115&text=Ol%C3%A1%20vim%20pelo%20Google%2C%20gostaria%20de%20uma%20informa%C3%A7%C3%A3o%2C%20pode%20ajudar%3F
 LinkBehaviour_A404F73A_B253_3064_41D2_22BBF85FD9AA.source = https://goo.gl/maps/e64i9xUe6NSHPGec6
-LinkBehaviour_DA6FFDFB_C9AB_106E_41DB_6880241A5778.source = https://api.whatsapp.com/send?phone=5592995005115&text=Ol%C3%A1%20vim%20pelo%20Google%2C%20gostaria%20de%20uma%20informa%C3%A7%C3%A3o%2C%20pode%20ajudar%3F

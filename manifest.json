@@ -1,8 +1,9 @@
 {
+ "name": "WF Empório Caça e Pesca",
+ "background_color": "#FFFFFF",
+ "description": "Força e Honra!",
  "theme_color": "#FFFFFF",
  "start_url": "index.htm",
- "description": "Força e Honra!",
- "name": "WF Empório Caça e Pesca",
  "icons": [
   {
    "type": "image/png",
@@ -40,6 +41,5 @@
    "src": "misc/icon64.png"
   }
  ],
- "display": "fullscreen",
- "background_color": "#FFFFFF"
+ "display": "fullscreen"
 }
