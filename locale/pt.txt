@@ -11,13 +11,14 @@ tour.name = WF Empório Caça e Pesca
 ## Media
 
 ### Title
-panorama_59E2B0D6_55C1_A777_41C1_FB95E2E7F5CC.label = IMG_20230704_090206_00_merged
-panorama_5F055154_55C1_E974_41C4_3F998EAE63CF.label = IMG_20230704_090403_00_merged
-panorama_5F7EC12B_55C1_A6DD_41A1_CDDFA29E25B8.label = IMG_20230704_090431_00_merged
-panorama_5F7EF080_55C1_67CB_41C8_958D735EE740.label = IMG_20230704_090541_00_merged
-panorama_5F7F01EE_55C0_E957_41BF_71866B8F13B8.label = IMG_20230704_090713_00_merged
-panorama_5F7F0203_55C0_AACC_41C2_3D8DD3EDCF97.label = IMG_20230704_091123_00_merged
-panorama_5F7F2094_55C0_A7F4_41D3_126DA3B2D03A.label = IMG_20230704_090638_00_merged
+panorama_BD05230E_B674_045B_41E4_FCBA320AF6D5.label = IMG_20240517_171406_00_merged
+panorama_BD05240E_B674_0C58_41E0_2AB07BC89F34.label = IMG_20240517_171310_00_merged
+panorama_BD054658_B674_0CF8_41AF_B050AC77BBB8.label = IMG_20240517_170144_00_merged
+panorama_BD0563DD_B674_0BF8_41D0_530A1666EC55.label = IMG_20240517_171517_00_merged
+panorama_BD057372_B674_04CB_41E2_E9CEB0D0273D.label = IMG_20240517_171801_00_merged
+panorama_BD05D347_B674_04C8_41CE_027AC64994FD.label = IMG_20240517_172018_00_merged
+panorama_BD073501_B674_0C49_41D9_D79978D6F176.label = IMG_20240517_171057_00_merged
+panorama_BD99A1DE_B674_07FB_41AC_FB4F95B01F41.label = IMG_20240517_170006_00_merged
 panorama_C32C0B6C_C9A9_306A_41CD_26528D1538E8.label = 2 - Lateral
 
 ## Action
@@ -26,6 +27,6 @@ panorama_C32C0B6C_C9A9_306A_41CD_26528D1538E8.label = 2 - Lateral
 LinkBehaviour_812BC2BF_986C_B4CF_41CB_21F132D01308.source = https://www.instagram.com/p/COJdiTZHZGu/
 LinkBehaviour_81A9D71D_986C_FDD1_41DF_9BC73738CD32.source = https://api.whatsapp.com/send?phone=5592995005115&text=Ol%C3%A1%20vim%20pelo%20Google%2C%20gostaria%20de%20uma%20informa%C3%A7%C3%A3o%2C%20pode%20ajudar%3F
 LinkBehaviour_81FD913A_986D_95D3_41D7_B538D3D0DF8E.source = https://goo.gl/maps/e64i9xUe6NSHPGec6
-LinkBehaviour_A4041739_B253_3064_41CC_435E82C9E860.source = https://www.instagram.com/p/COJdiTZHZGu/
-LinkBehaviour_A4042739_B253_3064_41DD_BBEDF83EE6E0.source = https://api.whatsapp.com/send?phone=5592995005115&text=Ol%C3%A1%20vim%20pelo%20Google%2C%20gostaria%20de%20uma%20informa%C3%A7%C3%A3o%2C%20pode%20ajudar%3F
-LinkBehaviour_A404F73A_B253_3064_41D2_22BBF85FD9AA.source = https://goo.gl/maps/e64i9xUe6NSHPGec6
+LinkBehaviour_A4565891_B68C_0448_41CE_04323EBB77D7.source = https://goo.gl/maps/e64i9xUe6NSHPGec6
+LinkBehaviour_A5039E64_B68C_1CC8_41D1_1B388882C890.source = https://www.instagram.com/p/COJdiTZHZGu/
+LinkBehaviour_A5D771C9_B68C_07D8_41A2_DBF8D82DEE68.source = https://api.whatsapp.com/send?phone=5592995005115&text=Ol%C3%A1%20vim%20pelo%20Google%2C%20gostaria%20de%20uma%20informa%C3%A7%C3%A3o%2C%20pode%20ajudar%3F
