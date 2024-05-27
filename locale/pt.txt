@@ -28,5 +28,5 @@ LinkBehaviour_812BC2BF_986C_B4CF_41CB_21F132D01308.source = https://www.instagra
 LinkBehaviour_81A9D71D_986C_FDD1_41DF_9BC73738CD32.source = https://api.whatsapp.com/send?phone=5592995005115&text=Ol%C3%A1%20vim%20pelo%20Google%2C%20gostaria%20de%20uma%20informa%C3%A7%C3%A3o%2C%20pode%20ajudar%3F
 LinkBehaviour_81FD913A_986D_95D3_41D7_B538D3D0DF8E.source = https://goo.gl/maps/e64i9xUe6NSHPGec6
 LinkBehaviour_A4565891_B68C_0448_41CE_04323EBB77D7.source = https://goo.gl/maps/e64i9xUe6NSHPGec6
-LinkBehaviour_A5039E64_B68C_1CC8_41D1_1B388882C890.source = https://www.instagram.com/p/COJdiTZHZGu/
-LinkBehaviour_A5D771C9_B68C_07D8_41A2_DBF8D82DEE68.source = https://api.whatsapp.com/send?phone=5592995005115&text=Ol%C3%A1%20vim%20pelo%20Google%2C%20gostaria%20de%20uma%20informa%C3%A7%C3%A3o%2C%20pode%20ajudar%3F
+LinkBehaviour_A5039E64_B68C_1CC8_41D1_1B388882C890.source = https://www.instagram.com/wfemporiocacaepesca/
+LinkBehaviour_A5D771C9_B68C_07D8_41A2_DBF8D82DEE68.source = https://api.whatsapp.com/send?phone=5592991966257&text=Ol%C3%A1%20vim%20pelo%20Google%2C%20gostaria%20de%20uma%20informa%C3%A7%C3%A3o%2C%20pode%20ajudar%3F
